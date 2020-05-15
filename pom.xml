@@ -107,7 +107,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>todo-web-application-mysql</finalName>
+		<finalName>todo-web-application</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
